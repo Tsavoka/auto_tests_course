@@ -1,2 +1,3 @@
 # auto_tests_course
-Hometasks.
+Hometasks. 
+https://stepik.org/course/575/syllabus
